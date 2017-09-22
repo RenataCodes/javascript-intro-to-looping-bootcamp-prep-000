@@ -14,3 +14,11 @@ function whileLoop(n) {
     console.log(--n)
   } return "done"
 }
+
+function doWhileLoop(array) {
+do {
+  array.push()
+} while (
+array.length > 0 && maybeTrue())
+return array
+}
